@@ -504,7 +504,7 @@ document.addEventListener(
 
         const weddingDate =
             new Date(
-                "2026-12-25T10:30:00"
+                "2026-11-13T05:00:00"
             );
 
 
