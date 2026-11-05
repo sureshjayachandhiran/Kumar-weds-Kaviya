@@ -1337,11 +1337,10 @@ a {
 
     .couple-photo-frame {
 
-        width:
-            calc(100vw - 40px);
+ 
 
         max-width:
-            390px;
+            250px;
 
         aspect-ratio:
             4 / 5;
@@ -1463,7 +1462,7 @@ a {
     .couple-names h3 {
 
         font-size:
-            46px;
+            36px;
 
     }
 
@@ -11708,7 +11707,7 @@ footer {
 
     gap: 14px;
 
-    margin-top: 55px;
+    margin-top: 10px;
 
     padding:
         19px 45px;
@@ -11772,7 +11771,7 @@ footer {
 
 .countdown-bottom-text {
 
-    margin-top: 30px;
+    margin-top: 15px;
 
     color:
         rgba(241,214,154,.75);
